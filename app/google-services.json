@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "207760571308",
+    "firebase_url": "https://parkmycar-f36c7.firebaseio.com",
+    "project_id": "parkmycar-f36c7",
+    "storage_bucket": "parkmycar-f36c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207760571308:android:684c91eac10a8c513e5809",
+        "android_client_info": {
+          "package_name": "com.project.parkmycar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207760571308-t2ib935imj6fvorhosjuh1f5fjudi5k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.parkmycar",
+            "certificate_hash": "db12e991fb7fc5ddffc8a6ff84ca9e99a086c0ee"
+          }
+        },
+        {
+          "client_id": "207760571308-cqtijs4pcl9gdkr33oikgooqejc0j1b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyRi7oGzu__8jBHoeeCHUQIx6ZmZ300pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207760571308-cqtijs4pcl9gdkr33oikgooqejc0j1b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
